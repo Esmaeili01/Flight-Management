@@ -12,6 +12,6 @@ The Python libraries we need :
 - datetime
 - termcolor (for a better look)
 
-Import the **flight.sql** to your mysql database.We need a database to hold city and plane names and log. \
+Import the **flight.sql** to your mysql database.We need a database to keep cities , planes and log. \
 Put all the python files on the same directory and run the **main.py**.\
 the result will be in Terminal and the log table on flight database.
