@@ -3,7 +3,7 @@ Flight management with Circular Queue data structure \
 We have two Queues , one for Take-offs and one for Landings. \
 The minimum time interval between flights is 5 minutes. \
 Landing takes priority over take-off. \
-so if there are a take-off at 19:00 and a landing at 19:03 , the take-off flight must wait untill 19:08 (19:03 + 00:05). \
+so if there is a take-off at 19:00 and a landing at 19:03 , the take-off flight must wait untill 19:08 (19:03 + 00:05). \
 Since this is a simulation , we use random numbers and names. \
 
 The Python libraries we need : 
